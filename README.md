@@ -13,3 +13,5 @@
 6. data: https://www.dropbox.com/scl/fi/yzy3njyj9adoh3h111gt6/data.csv?rlkey=1r2sru1j1exi2b4fayeb780uw&st=4pii2snp&dl=0
 
 7. copy of Sonar: https://www.dropbox.com/scl/fi/b62ga5qp1rbzrn8h6aecr/Copy-of-sonar-data.csv?rlkey=bj2golinslhz1onmwfm6zdhxz&st=u8iegh2m&dl=0
+
+8. dataset(for loan status prediction): https://www.dropbox.com/scl/fi/kwzjx56sda9lebrun8dur/dataset.csv?rlkey=9hgq0ukjcivtzchu5casf6v3b&st=8km5cp38&dl=0
